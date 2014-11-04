@@ -4,7 +4,8 @@
   "description": "Kerbal Package Unifier",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [
     "kerbal",
@@ -15,6 +16,6 @@
   "dependencies": {
     "cheerio": "~0.17.0",
     "restify": "~2.8.3",
-    "jszip": "git://github.com/gregoire-astruc/jszip",
+    "jszip": "git://github.com/gregoire-astruc/jszip"
   }
 }
