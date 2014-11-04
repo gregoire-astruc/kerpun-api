@@ -1,0 +1,20 @@
+{
+  "name": "kpu",
+  "version": "0.0.0",
+  "description": "Kerbal Package Unifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kerbal",
+    "ksp"
+  ],
+  "author": "Gregoire Astruc",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "cheerio": "~0.17.0",
+    "restify": "~2.8.3",
+    "jszip": "git://github.com/gregoire-astruc/jszip",
+  }
+}
